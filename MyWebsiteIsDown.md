@@ -170,10 +170,10 @@ Again, this is by no means an exhaustive list; there are thousands of commercial
 
 * **Cost:** Free
 * **Restrictions:** NGOs, human rights, independent media
-* **About the organization and its business model:** Deflect is an open source project of eQualit.ie, a not-for-profit technology collective based in Montreal, Canada with deep roots in the human rights technology community.  Deflect is funded by NGOs and governments, including the US government, to provide Deflect services to protect the freedom of speech.  Deflect does not disclose the websites they protect nor need approval to provide service.  Deflect maintains servers with like-minded hosting companies around the world.
+* **About the organization and its business model:** Deflect is an open source project of [eQualit.ie](https://equalit.ie), a not-for-profit technology collective based in Montreal, Canada with deep roots in the human rights technology community.  Deflect is funded by NGOs and governments, including the US government, to provide Deflect services to protect freedom of speech.  Deflect does not disclose the websites they protect nor need approval to provide service.  Deflect maintains servers with like-minded hosting companies around the world.
 * **Additional Services:** The Deflect team will support you getting on to their services.  They have some grant funding available to pay for additional SSL Certificates and other related protection/recovery costs.  Sites protected by Deflect can opt to add additional layers of security to their core site.
 * **Technical needs:** You will need the ability to change your nameservers.
-* **Get Started Now:** [https://wiki.deflect.ca/signup/](https://wiki.deflect.ca/signup/).  See also [https://wiki.deflect.ca/wiki/Join_Deflect](https://wiki.deflect.ca/wiki/Join_Deflect)
+* **Get Started Now:** [https://dashboard.deflect.ca/signup](https://dashboard.deflect.ca/signup). 
 
 ### CloudFlare
 
